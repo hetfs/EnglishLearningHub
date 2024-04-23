@@ -1,4 +1,4 @@
-![English Learning Hub](A1-Images/English.png)
+![English Learning Hub](Images/English.png)
 
 # English Learning Hub
 
@@ -53,7 +53,7 @@ Here are the typical levels:
 
 </details>
 
-![CEFR-Level](A1-Images/CEFR.png)
+![CEFR-Level](Images/CEFR.png)
 
 ---
 
@@ -195,6 +195,8 @@ In summary, grasping the disparities among language levels facilitates effective
 
 ---
 
-[**A1 BEGINNER**](A1-Menu.md)
+[**A1 BEGINNER**](Menus/A1-Menu.md)
 
 ---
+
+![CEFR](Images/CEFR2.jpg)
