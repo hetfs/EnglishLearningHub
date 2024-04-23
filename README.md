@@ -1,3 +1,5 @@
+![English Learning Hub](A1-Images/English.png)
+
 # English Learning Hub
 
 comprehensive platform for accelerating English language learning fluency with a native approach.
