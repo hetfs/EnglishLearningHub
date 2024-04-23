@@ -189,4 +189,10 @@ In summary, grasping the disparities among language levels facilitates effective
 
 ---
 
+[**Free English level test • CEFR A1-C2**](https://www.englishradar.com/english-level-test/)
+
+---
+
 [**A1 BEGINNER**](A1-Menu.md)
+
+---
