@@ -1,3 +1,5 @@
+![A1](/A1-Images/English%20Learning%20Hub%20A1-Menu.png)
+
 # English and Effective Learning Strategies
 
 **what's English ?**:
