@@ -89,25 +89,38 @@ Old English had 29 letters and did not include J, U, and W.
 
 </details>
 
----------
+---
 
 ## YouTube Channel to Learn the English Alphabet
 
 Some of the YouTube channels are designed to teach students outside of the classroom, providing an interactive method of learning through educational content. These channels are an excellent resource for learning the English alphabet in an engaging and informative way.
 
+---
+
 **English Alphabet Pronunciation | English Alphabet for Beginners**:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/X15lZVm1KP8?si=ZO94QU9XE3RkgmFH"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</body>
-</html>
+[![English Alphabet Pronunciation](https://img.youtube.com/vi/um3YrKRfsr0/0.jpg)](https://www.youtube.com/watch?v=um3YrKRfsr0)
+
+---
+
+**English Alphabet Pronunciation 📌 Aa Bb Cc 🌙 Dark Mode**:
+
+[![English Alphabet Pronunciation](https://img.youtube.com/vi/X15lZVm1KP8/0.jpg)](https://www.youtube.com/watch?v=X15lZVm1KP8)
+
+---
+
+**English Alphabet Sounds**:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Sx3QNVXyyKc/0.jpg)](https://www.youtube.com/watch?v=Sx3QNVXyyKc)
+
+---
+
+**How to Pronounce the Alphabet in American English**:
+
+[![How to Pronounce the Alphabet in American English](https://img.youtube.com/vi/9-632tDb_F0/0.jpg)](https://www.youtube.com/watch?v=9-632tDb_F0)
+
+---
+
+**ABC Phonics Chant for Children | Sounds and Actions from A to Z**:
+
+[![ABC Phonics Chant for Children](https://img.youtube.com/vi/ChqnN3cKzXQ/0.jpg)](https://www.youtube.com/watch?v=ChqnN3cKzXQ)
